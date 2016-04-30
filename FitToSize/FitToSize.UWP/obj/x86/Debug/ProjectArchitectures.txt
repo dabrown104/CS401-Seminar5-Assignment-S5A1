@@ -1,0 +1,2 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A1\FitToSize\FitToSize\FitToSize.UWP\FitToSize.UWP.csproj;x86
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A1\FitToSize\FitToSize\FitToSize\FitToSize.csproj;neutral
